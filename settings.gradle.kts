@@ -1,4 +1,4 @@
-rootProject.name = "java-template"
+rootProject.name = "burger-std"
 
 buildscript {
   repositories {
