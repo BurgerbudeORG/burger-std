@@ -6,7 +6,7 @@ buildscript {
   }
 
   dependencies {
-    classpath("org.burgerbude.gradle", "burger-plugin", "0.1.1")
+    classpath("org.burgerbude.gradle", "burger-plugin", "0.1.2")
   }
 }
 
