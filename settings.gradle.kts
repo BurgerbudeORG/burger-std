@@ -14,4 +14,6 @@ apply(plugin = "org.burgerbude.burger")
 
 burgerSettings {
   isRootProjectPrefix = true
+
+  defineModule("file-watcher")
 }
